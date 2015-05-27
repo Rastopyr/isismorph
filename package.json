@@ -1,0 +1,23 @@
+{
+  "name": "isismorph",
+  "version": "0.1.0",
+  "description": "Tiny module for checking enviroment",
+  "main": "index.js",
+  "scripts": {
+    "test": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fun-stack/isismorph.git"
+  },
+  "author": "Rastopyr <rastopyr@gmail.com> (http://rastopyr.github.io/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fun-stack/isismorph/issues"
+  },
+  "homepage": "https://github.com/fun-stack/isismorph",
+  "devDependencies": {
+    "chai": "^2.3.0",
+    "mocha": "^2.2.5"
+  }
+}
